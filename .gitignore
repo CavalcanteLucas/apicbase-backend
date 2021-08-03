@@ -10,3 +10,4 @@ db.*
 # Python files
 *__pycache__/
 .python-version
+staticfiles
