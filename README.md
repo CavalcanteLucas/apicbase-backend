@@ -76,4 +76,4 @@ black .
 - `api/recipes/<int:recipe_id>/details/`
   - **GET**: display the details of a recipe formula with `<recipe_id>`
 - `api/recipes/<int:recipe_id>/cost/`
-  - **GET**: display the details of a recipe formula with `<recipe_id>`
+  - **GET**: display the cost of a recipe with `<recipe_id>`
